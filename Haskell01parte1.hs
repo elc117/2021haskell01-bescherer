@@ -1,4 +1,5 @@
 module Haskell01parte1 where
+
 -- Prática 01 de Haskell - Parte 1
 -- Nome: Brenda Emanuelle Scherer
 
