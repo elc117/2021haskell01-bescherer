@@ -1,0 +1,16 @@
+<svg width='500.00' height='500.00' xmlns='http://www.w3.org/2000/svg'>
+<circle cx='60' cy='100' r='50' fill='rgb(72, 61, 139, 1)' />
+<circle cx='20' cy='300' r='20' fill='rgb(0, 255, 255, 1)' />
+<circle cx='440' cy='250' r='60' fill='rgb(255, 255, 0, 1)' />
+<circle cx='250' cy='330' r='40' fill='rgb(255, 20, 147, 1)' />
+<circle cx='120' cy='250' r='70' fill='rgb(127, 255, 0, 1)' />
+<circle cx='400' cy='400' r='25' fill='rgb(72, 61, 139, 1)' />
+<circle cx='300' cy='60' r='50' fill='rgb(0, 255, 255, 1)' />
+<circle cx='60' cy='460' r='40' fill='rgb(255, 255, 0, 1)' />
+<circle cx='450' cy='20' r='30' fill='rgb(127, 255, 0, 1)' />
+<circle cx='300' cy='200' r='15' fill='rgb(72, 61, 139, 1)' />
+<circle cx='240' cy='450' r='20' fill='rgb(0, 255, 255, 1)' />
+<circle cx='100' cy='20' r='15' fill='rgb(255, 255, 0, 1)' />
+<circle cx='150' cy='150' r='20' fill='rgb(255, 20, 147, 1)' />
+<circle cx='450' cy='450' r='20' fill='rgb(127, 255, 0, 1)' />
+</svg>

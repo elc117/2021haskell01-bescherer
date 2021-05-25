@@ -1,4 +1,5 @@
 module Haskell01quickstart where
+
 {-
 	Primeiros passos em Haskell
 -}

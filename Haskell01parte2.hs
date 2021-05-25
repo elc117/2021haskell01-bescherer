@@ -2,6 +2,7 @@ module Haskell01parte2 where
 import Haskell01parte1 
 import Haskell01quickstart
 import Data.Char
+
 -- Prática 01 de Haskell - Parte 2
 -- Nome: Brenda Emanuelle Scherer
 
